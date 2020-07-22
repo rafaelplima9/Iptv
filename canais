@@ -322,20 +322,19 @@ http://erost.xyz:25461/35036712/38499935/13594
 http://erost.xyz:25461/35036712/38499935/13595
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.postimg.cc/wTGQzwKN/1516238874-eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET FHD
 http://erost.xyz:25461/35036712/38499935/13596
-http://erost.xyz:25461/35036712/38499935/13596
-#EXTINF:-1,DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://i.postimg.cc/bw1D5gqp/1516304181-46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.jpg" group-title="Documentarios",DISCOVERY CHANNEL SD
 http://erost.xyz:25461/35036712/38499935/13597
-#EXTINF:-1,DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/bw1D5gqp/1516304181-46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.jpg" group-title="Documentarios",DISCOVERY CHANNEL HD
 http://erost.xyz:25461/35036712/38499935/13598
-#EXTINF:-1,DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://i.postimg.cc/bw1D5gqp/1516304181-46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.jpg" group-title="Documentarios",DISCOVERY CHANNEL FHD
 http://erost.xyz:25461/35036712/38499935/13599
-#EXTINF:-1,DISCOVERY CIVILIZATION SD
+#EXTINF:-1 tvg-id="Discovery Civilization HD [Alter]" tvg-name="DISCOVERY CIVILIZATION SD" tvg-logo="https://i.postimg.cc/TPGLvbPm/1516304318-ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.jpg" group-title="Documentarios",DISCOVERY CIVILIZATION SD
 http://erost.xyz:25461/35036712/38499935/13600
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="https://i.postimg.cc/Pq4LXqL7/1516304527-2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Documentarios",DISCOVERY HOME & HEALTH SD
 http://erost.xyz:25461/35036712/38499935/13603
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/Pq4LXqL7/1516304527-2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Documentarios",DISCOVERY HOME & HEALTH HD
 http://erost.xyz:25461/35036712/38499935/13604
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://i.postimg.cc/Pq4LXqL7/1516304527-2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Documentarios",DISCOVERY HOME & HEALTH FHD
 http://erost.xyz:25461/35036712/38499935/13605
 #EXTINF:-1,DISCOVERY SCIENCE HD
 http://erost.xyz:25461/35036712/38499935/13607
