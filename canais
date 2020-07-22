@@ -316,11 +316,12 @@ http://erost.xyz:25461/35036712/38499935/13536
 http://erost.xyz:25461/35036712/38499935/13543
 #EXTINF:-1,WOOHOO HD
 http://erost.xyz:25461/35036712/38499935/13547
-#EXTINF:-1,ANIMAL PLANET SD
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.postimg.cc/wTGQzwKN/1516238874-eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET SD
 http://erost.xyz:25461/35036712/38499935/13594
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/wTGQzwKN/1516238874-eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET HD
 http://erost.xyz:25461/35036712/38499935/13595
-#EXTINF:-1,ANIMAL PLANET FHD
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.postimg.cc/wTGQzwKN/1516238874-eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET FHD
+http://erost.xyz:25461/35036712/38499935/13596
 http://erost.xyz:25461/35036712/38499935/13596
 #EXTINF:-1,DISCOVERY CHANNEL SD
 http://erost.xyz:25461/35036712/38499935/13597
